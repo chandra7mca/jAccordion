@@ -1,0 +1,35 @@
+{
+  "name": "jAccordion",
+  "title": "jQuery J Accordion ",
+  "description": "A jump-start for Accordions using JQuery.",
+  "keywords": [
+    "jquery",
+    "accordions",
+	"jAccordion",
+    "plugins"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Chandra Sekhar N",
+    "url": "https://github.com/chandra7mca"
+  },
+  "maintainers": [
+    {
+      "name": "Chandra Sekhar N",
+      "url": "https://github.com/chandra7mca"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "https://github.com/chandra7mca/jAccordion/issues",
+  "homepage": "https://github.com/chandra7mca/jAccordion",
+  "docs": "https://github.com/chandra7mca/jAccordion/blob/master/README.txt",
+  "download": "https://github.com/chandra7mca/jAccordion/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.8.3"
+  }
+}
